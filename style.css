@@ -57,7 +57,7 @@ html, body{
 }
 
 .email-box:hover{
-    border-radius: 40px;
+    border-radius: 20px;
     transition: 1s linear;
 }
 
@@ -69,7 +69,7 @@ html, body{
 }
 
 .black:hover{
-    border-radius: 40px;
+    border-radius: 20px;
     transition: 1s linear;
 }
 
